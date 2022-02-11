@@ -1,0 +1,42 @@
+Full site:
+Font Body size: 14px with 1.5 line height
+Heading size: 24px with 1.5 line height
+Width of page: 1400px with 100px padding left and right
+
+Mobile site:
+Font Body size: 12px with 1.5 line height
+Heading size: 12px with 1.5 line height
+Width of page: Fluid with 30px padding left and right
+
+Font: Space Mono
+
+@import url('https://fonts.googleapis.com/css?family=Space+Mono');
+
+body {
+  font-family: 'Space Mono', monospace;
+}
+
+Colors:
+White: #ffffff
+Black: #000000
+Charcoal: #1A1A1A
+
+-----
+
+An industrial design office based in Oslo. We design objects, surfaces, products, furniture and spaces.
+
+Industrial Night Stand and Lamp ↗
+
+We work with a wide range of corporate and cultural clients, both locally and internationally.
+
+Day Chair ↗
+
+Our Process
+
+We design furniture, lighting, accessories and components, working together with a range of suppliers and manufacturers. In particular, We have built a close relationship with a local foundry for cast elements in bronze and aluminium.
+
+Contact:
+hello@source.nu
+Twitter ↗
+Facebook ↗
+Instagram ↗
